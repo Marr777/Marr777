@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋</h1>
+<h2 align="left">Hello 👋</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
